@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios.Semana", "Ejercicios.Semana\Ejercicios.Semana.csproj", "{14058F0C-40CB-44B2-A89F-1F426932EDDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicios.Semana", "Ejercicios.Semana\Ejercicios.Semana.csproj", "{14058F0C-40CB-44B2-A89F-1F426932EDDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meses", "Meses\Meses.csproj", "{A4132F25-7EAE-41FA-9D2B-C51364729564}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{14058F0C-40CB-44B2-A89F-1F426932EDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14058F0C-40CB-44B2-A89F-1F426932EDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14058F0C-40CB-44B2-A89F-1F426932EDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4132F25-7EAE-41FA-9D2B-C51364729564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4132F25-7EAE-41FA-9D2B-C51364729564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4132F25-7EAE-41FA-9D2B-C51364729564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4132F25-7EAE-41FA-9D2B-C51364729564}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
